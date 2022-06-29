@@ -7,7 +7,7 @@
   Demonstração de Portfólio Cara - Feito com Gatsby
 </h1>
 
-[**Site Ao Vivo**](https://cara.lekoarts.de)
+[**Site Ao Vivo**](https://portfolio-gatsby-cara.netlify.app)
 
 ## ✨ Recursos
 
